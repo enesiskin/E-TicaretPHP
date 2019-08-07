@@ -1,6 +1,6 @@
 # E-TicaretPHP
-PDO ile Crud İşlemleri
-Giriş Kontrollü Admin Panel
-Seo Optimizasyon
-Çoklu Resim Yükleme,Zopim
+PDO ile Crud İşlemleri,
+Giriş Kontrolü Admin Panel,
+Seo Optimizasyon,
+Çoklu Resim Yükleme,Zopim Canlı Destek,
 Kredi Kartı Entegrasyonu
